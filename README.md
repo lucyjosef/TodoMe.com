@@ -1,7 +1,7 @@
 # hackathonDFS
 Team project - TodoMe.com - my shared todolists
-
-<h1>`FIRST STEP`</h1>
+<!DOCTYPE html>
+<h1>FIRST STEP</h1>
 <div style="display : flex; flex-direction : row; justify-content : space-between;">
   <div style="padding:20px">
     <h3>Login</h3>
@@ -12,3 +12,4 @@ Team project - TodoMe.com - my shared todolists
     <p>Create your account by registering in our database. Easy !</p>
   </div>
 </div>
+<html>
