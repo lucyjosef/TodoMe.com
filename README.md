@@ -1,5 +1,8 @@
 # hackathonDFS
 Team project - TodoMe.com - my shared todolists
+Web application built on electron and Lumen frmework with routes system implementation, and AJAX request.
+Database : MySQL. connected in the env file of Lumen
+
 <!DOCTYPE html>
 <h1>FIRST STEP</h1>
 <div style="display:flex; flex-direction:row; justify-content:space-between;">
