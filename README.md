@@ -6,10 +6,12 @@ Team project - TodoMe.com - my shared todolists
   <div style="padding:20px">
     <h3>Login</h3>
     <p>The login page is the home page of this app. You need to be logged to access the dashboard.</p>
+    <img src="./captures/login.png" width="300">
   </div>
   <div style="padding:20px">
     <h3>Or signin</h3>
     <p>Create your account by registering in our database. Easy !</p>
+    <img src="./captures/signin.png" width="300">
   </div>
 </div>
 <html>
